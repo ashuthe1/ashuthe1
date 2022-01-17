@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Gautam</h1>
+<h1 align="center">Hi! 👋, I'm Ashutosh Gautam</h1>
 <h3 align="center">A passionate competitive programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashuthe1&label=Profile%20views&color=0e75b6&style=flat" alt="ashuthe1" /> </p>
