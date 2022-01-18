@@ -48,6 +48,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashuthe1&show_icons=true&locale=en" alt="ashuthe1" /></p>
 
+![download (1)](https://user-images.githubusercontent.com/86846633/149893115-04ccdb10-b447-4530-b00a-b317db566529.png)
+
+
+
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
