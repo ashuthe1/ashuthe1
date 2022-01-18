@@ -1,3 +1,7 @@
+
+![se2](https://user-images.githubusercontent.com/86846633/149882916-238ed0bf-2ac5-421d-a101-434d2dc4849f.jpg)
+
+
 <h1 align="center">Hi! 👋, I'm Ashutosh Gautam</h1>
 <h3 align="center">A passionate competitive programmer</h3>
 
@@ -14,9 +18,6 @@
 - ⚡ Fun fact **I think I am funny XD**
 
 
-
-
-![se2](https://user-images.githubusercontent.com/86846633/149882916-238ed0bf-2ac5-421d-a101-434d2dc4849f.jpg)
 
 
 <h3 align="left">Connect with me:</h3>
