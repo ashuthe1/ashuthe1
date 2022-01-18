@@ -6,29 +6,13 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Gautam</h1>
 <h3 align="center">A passionate Competitive coder </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khusboogoel01&label=Profile%20views&color=0e75b6&style=flat" alt="vvkyadav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashuthe1&label=Profile%20views&color=0e75b6&style=flat" alt="vvkyadav" /> </p>
 
-![131893851-b24002a3-72be-40cf-a179-7cbdff89b087](https://user-images.githubusercontent.com/86846633/149965742-0f3298b3-14d3-426c-b3d8-fa5593065811.gif)
-
-
-
-
-<h1 align="center">Hi! 👋, I'm Ashutosh Gautam</h1>
-<p><i> I'm Ashutosh a 1st year IT Undergraduate from BMS college of engineering, Banglore. I'm a Tech Enthusiast, Front-end Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
-
-
-<h3 align="center"> A passionate competitive programmer</h3>   
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashuthe1&label=Profile%20views&color=0e75b6&style=flat" alt="ashuthe1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashuthe1" alt="ashuthe1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ashu_the1" target="blank"><img src="https://img.shields.io/twitter/follow/ashu_the1?logo=twitter&style=for-the-badge" alt="ashu_the1" /></a> </p>
+<p><i> I love to explore and learn about new domains.</i></p
  
-<p align="left"> <a href="https://www.instagram.com/ashutoshgautamofficial/" target="blank"><img src="https://img.shields.io/instagram/follow/ashutoshgautamofficial?logo=instagram&style=for-the-badge" alt="ashutoshgautamofficial 2700 followers" /></a> </p>
-
-
-- 🌱 I’m currently learning **data structure & algorithm , web development**
+ <p align="left"> <a href="https://twitter.com/ashu_the1" target="blank"><img src="https://img.shields.io/twitter/follow/ashu_the1?logo=twitter&style=for-the-badge" alt="ashu_the1" /></a> </p>
+ 
+  🌱 I’m currently learning **data structure & algorithm , web development**
 
   <li> 💬 <b>Ask me about</b> : <code>Web Development</code>, <code>Git/Github</code>, <code>C++</code></li>
 
@@ -38,9 +22,12 @@
 - ⚡ Fun fact **I think I am funny XD**
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashuthe1" alt="ashuthe1" /></a> </p>
+ 
+<p align="left"> <a href="https://www.instagram.com/ashutoshgautamofficial/" target="blank"><img src="https://img.shields.io/instagram/follow/ashutoshgautamofficial?logo=instagram&style=for-the-badge" alt="ashutoshgautamofficial 2700 followers" /></a> </p>
+
+
 <img width="265" alt="Screenshot 2022-01-18 203746" src="https://user-images.githubusercontent.com/86846633/149963350-4eada8d2-068d-454c-b810-f92116a81c31.png">
-
-
 
 
 
@@ -64,17 +51,14 @@
 
 
 
+![68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966](https://user-images.githubusercontent.com/86846633/149968453-2874b9b2-da02-473d-93f8-6ccf25b78452.gif)
 
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashuthe1&show_icons=true&locale=en&layout=compact" alt="ashuthe1" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashuthe1&show_icons=true&locale=en" alt="ashuthe1" /></p>
-
-![68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966](https://user-images.githubusercontent.com/86846633/149968453-2874b9b2-da02-473d-93f8-6ccf25b78452.gif)
 
 
 
