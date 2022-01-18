@@ -7,8 +7,10 @@
 
 
 <h1 align="center">Hi! 👋, I'm Ashutosh Gautam</h1>
+<p><i> I'm Ashutosh a 1st year IT Undergraduate from BMS college of engineering, Banglore. I'm a Tech Enthusiast, Front-end Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
 
-<h3 align="center">A passionate competitive programmer</h3>   
+
+<h3 align="center"> A passionate competitive programmer</h3>   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashuthe1&label=Profile%20views&color=0e75b6&style=flat" alt="ashuthe1" /> </p>
 
@@ -18,7 +20,10 @@
 
 - 🌱 I’m currently learning **data structure & algorithm , web development**
 
-- 📫 How to reach me **ashutosh251848@gmail.com**
+  <li> 💬 <b>Ask me about</b> : <code>Web Development</code>, <code>Git/Github</code>, <code>C++</code></li>
+
+
+- 📫 How to reach me **Instagram & twitter **
 
 - ⚡ Fun fact **I think I am funny XD**
 
