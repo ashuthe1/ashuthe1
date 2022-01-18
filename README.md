@@ -47,3 +47,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashuthe1&show_icons=true&locale=en&layout=compact" alt="ashuthe1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashuthe1&show_icons=true&locale=en" alt="ashuthe1" /></p>
+
+ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+
+
