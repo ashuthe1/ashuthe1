@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi! 👋, I'm Ashutosh Gautam</h1>!
+<h1 align="center">Hi! 👋, I'm Ashutosh Gautam</h1>
 
 <h3 align="center">A passionate competitive programmer</h3>   
 
