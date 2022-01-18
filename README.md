@@ -12,7 +12,7 @@
  
  <p align="left"> <a href="https://twitter.com/ashu_the1" target="blank"><img src="https://img.shields.io/twitter/follow/ashu_the1?logo=twitter&style=for-the-badge" alt="ashu_the1" /></a> </p>
  
-  🌱 I’m currently learning **data structure & algorithm , back end development **
+  🌱 I’m currently learning **Data structures & algorithm , back end development**
 
   <li> 💬 <b>Ask me about</b> : <code>Web Development</code>, <code>Git & Github</code>, <code>C/C++</code></li>
 
