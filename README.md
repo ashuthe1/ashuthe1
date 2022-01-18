@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi! 👋, I'm Ashutosh Gautam</h1>![131893851-b24002a3-72be-40cf-a179-7cbdff89b087](https://user-images.githubusercontent.com/86846633/149965447-fe93aa78-b1dd-4691-807f-3c8aed8baf02.gif)
+<h1 align="center">Hi! 👋, I'm Ashutosh Gautam</h1>!
 
 <h3 align="center">A passionate competitive programmer</h3>   
 
