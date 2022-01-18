@@ -18,6 +18,12 @@
 - ⚡ Fun fact **I think I am funny XD**
 
 
+<img width="265" alt="Screenshot 2022-01-18 203746" src="https://user-images.githubusercontent.com/86846633/149963350-4eada8d2-068d-454c-b810-f92116a81c31.png">
+
+
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
