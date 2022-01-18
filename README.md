@@ -1,5 +1,11 @@
 
 
+
+
+![131893851-b24002a3-72be-40cf-a179-7cbdff89b087](https://user-images.githubusercontent.com/86846633/149965742-0f3298b3-14d3-426c-b3d8-fa5593065811.gif)
+
+
+
 <h1 align="center">Hi! 👋, I'm Ashutosh Gautam</h1>
 
 <h3 align="center">A passionate competitive programmer</h3>   
