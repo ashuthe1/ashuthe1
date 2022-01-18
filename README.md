@@ -14,7 +14,7 @@
  
   🌱 I’m currently learning **data structure & algorithm , back end development **
 
-  <li> 💬 <b>Ask me about</b> : <code>Web Development</code>, <code>Git/Github</code>, <code>C/C++</code></li>
+  <li> 💬 <b>Ask me about</b> : <code>Web Development</code>, <code>Git & Github</code>, <code>C/C++</code></li>
 
 
 - 📫 How to reach me **https://www.instagram.com/ashutoshgautamofficial/**
