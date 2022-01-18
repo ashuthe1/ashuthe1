@@ -1,5 +1,5 @@
+![68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67](https://user-images.githubusercontent.com/86846633/149889479-9dad8691-13f3-4d09-82a4-226fa88a4ecf.png)
 
-![se2](https://user-images.githubusercontent.com/86846633/149882916-238ed0bf-2ac5-421d-a101-434d2dc4849f.jpg)
 
 
 <h1 align="center">Hi! 👋, I'm Ashutosh Gautam</h1>
