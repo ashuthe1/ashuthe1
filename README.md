@@ -13,6 +13,12 @@
 
 - ⚡ Fun fact **I think I am funny XD**
 
+
+
+
+![se2](https://user-images.githubusercontent.com/86846633/149882916-238ed0bf-2ac5-421d-a101-434d2dc4849f.jpg)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ashu_the1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashu_the1" height="30" width="40" /></a>
