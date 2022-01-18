@@ -18,6 +18,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashuthe1" alt="ashuthe1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ashu_the1" target="blank"><img src="https://img.shields.io/twitter/follow/ashu_the1?logo=twitter&style=for-the-badge" alt="ashu_the1" /></a> </p>
+ 
+<p align="left"> <a href="https://www.instagram.com/ashutoshgautamofficial/" target="blank"><img src="https://img.shields.io/instagram/follow/ashutoshgautamofficial?logo=instagram&style=for-the-badge" alt="ashutoshgautamofficial 2700 followers" /></a> </p>
+
 
 - 🌱 I’m currently learning **data structure & algorithm , web development**
 
