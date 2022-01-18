@@ -4,6 +4,10 @@
 
 ![131893851-b24002a3-72be-40cf-a179-7cbdff89b087](https://user-images.githubusercontent.com/86846633/149965742-0f3298b3-14d3-426c-b3d8-fa5593065811.gif)
 
+![68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966](https://user-images.githubusercontent.com/86846633/149968123-513ce963-c554-4422-a805-84e7989883be.gif)
+
+
+
 
 
 <h1 align="center">Hi! 👋, I'm Ashutosh Gautam</h1>
