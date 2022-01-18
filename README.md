@@ -48,7 +48,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashuthe1&show_icons=true&locale=en" alt="ashuthe1" /></p>
 
-![download (1)](https://user-images.githubusercontent.com/86846633/149893115-04ccdb10-b447-4530-b00a-b317db566529.png)
+<img width="524" alt="Screenshot 2022-01-18 132043" src="https://user-images.githubusercontent.com/86846633/149893632-68aefb68-a355-4a24-a92d-37a811656c55.png">
 
 
 
