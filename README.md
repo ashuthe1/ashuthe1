@@ -24,7 +24,7 @@
   <li> 💬 <b>Ask me about</b> : <code>Web Development</code>, <code>Git/Github</code>, <code>C++</code></li>
 
 
-- 📫 How to reach me **Instagram & twitter **
+- 📫 How to reach me **https://www.instagram.com/ashutoshgautamofficial/**
 
 - ⚡ Fun fact **I think I am funny XD**
 
