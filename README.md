@@ -1,6 +1,6 @@
-![68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67](https://user-images.githubusercontent.com/86846633/149889479-9dad8691-13f3-4d09-82a4-226fa88a4ecf.png)
 
 
+![programmers-1015](https://user-images.githubusercontent.com/86846633/149890297-0f35c097-ef86-4173-a79a-2f9c573518bd.jpg)
 
 <h1 align="center">Hi! 👋, I'm Ashutosh Gautam</h1>
 <h3 align="center">A passionate competitive programmer</h3>
