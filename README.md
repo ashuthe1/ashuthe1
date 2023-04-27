@@ -12,7 +12,7 @@
 
 <!-- - 🙋‍♂️ All about me is at **[[My Website](hts://ashutoshgautam.dev/)](https://ashutoshgautam.dev/)** -->
 <!--  -->
-- 🌱 I’m currently learning **Back End Development.**
+- 🌱 I’m **Full-Stack Web Developer**
 
 - 👯 I’m looking to collaborate on **Dev Projects**
 
