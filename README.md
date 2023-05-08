@@ -9,16 +9,18 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## 🙋‍♂️ About Me
-
 <!-- - 🙋‍♂️ All about me is at **[[My Website](hts://ashutoshgautam.dev/)](https://ashutoshgautam.dev/)** -->
 <!--  -->
 - 🌱 I’m **Full-Stack Web Developer**
 
-- 👯 I’m looking to collaborate on **Dev Projects**
+- 👯 Have an idea? Let’s collaborate! Email me at <a href="mailto:ashutosh251848@gmail.com" target="_blank">ashutosh251848@gmail.com</a>.
+
+- More details on my <a href="https://ashutoshgautam.dev" target="_blank"> Portfolio</a>.
+
+<a href="#-skills"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"></a>
 
 
 ## 🛠️ Technologies and Tools I use:
-
 <p>
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
@@ -83,3 +85,5 @@
 </a>
 <a href="https://github.com/ashuthe1?tab=followers"><img src="https://img.shields.io/github/followers/ashuthe1?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
+
+<h2 align="center"> ❤ THANK YOU!</h2>
