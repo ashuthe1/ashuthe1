@@ -1,4 +1,4 @@
-## Hello World!, I'm <a href="https://ashutoshgautam.dev" target="_blank">Ashutosh</a>!
+<h1>Hello World!, I'm <a href="https://ashutoshgautam.dev" target="_blank">Ashutosh</a>!</h1>
 <h3>A passionate Full-Stack Developer</h3>
 
 ## 🙋‍♂️ About Me
