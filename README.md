@@ -7,7 +7,7 @@
 
 - 🌱 I’m **Full-Stack Web Developer**
 
-- 🎓 Currently I'm pursuing Bachelors in Information Science & Engineering at BMS College of Engineering
+- 🎓 Currently pursuing Bachelors in Information Science & Engineering at BMS College of Engineering
 
 - 👯 Have an idea? Let’s collaborate! Email me at <a href="mailto:ashutosh251848@gmail.com" target="_blank">ashutosh251848@gmail.com</a>.
 
