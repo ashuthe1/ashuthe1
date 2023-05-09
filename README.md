@@ -29,7 +29,8 @@
 
 <a href="#-skills"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"></a>
 
-## 📊 My Github Stats
+## <a href="#-github-stats"><img src="https://oyepriyansh.pages.dev/526015297887404052.gif" width="40"></a> GitHub Stats
+<a href="#-github-stats">
 
    <p align="center">
     <a href="https://github.com/ashuthe1/github-readme-streak-stats">
@@ -47,17 +48,13 @@
 
 <a href="#-skills"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"></a>
 
-## Connect with me:
-
-<p align="center">
+## <a href="#connect"><img src="https://oyepriyansh.pages.dev/918555162522583050.gif" width="40"></a>Connect with me: <p align="center">
 
 <a href = "https://www.linkedin.com/in/ashuthe1/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
 <a href = "mailto:ashutosh251848@gmail.com"><img src="https://user-images.githubusercontent.com/86846633/236041159-79192d7d-aae1-4114-b657-56c45948d41d.png"></a>
 <a href = "https://twitter.com/ashuthe1x"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
 
 </p>
-
-## Views and Followers
 
 <a href="https://github.com/ashuthe1/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ashuthe1">
