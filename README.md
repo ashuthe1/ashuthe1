@@ -1,3 +1,4 @@
+<a href="#-skills"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"></a>
 <h1>Hello World!, I'm <a href="https://ashutoshgautam.dev" target="_blank">Ashutosh</a>!</h1>
 <h3>A passionate Full-Stack Developer</h3>
 
