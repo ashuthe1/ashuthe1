@@ -21,17 +21,15 @@
 
 - Front-End Development:
 
- &nbsp; &nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/html.svg" title="HTML" width="35"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/css.svg" title="CSS" width="35"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JAVASCRIPT" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/js.svg" title="Javascript" width="35"> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/bootstrap.svg" title="Bootstrap" width="35"> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/tailwind.svg" title="Tailwind CSS" width="35"> </a>
+[![FrontEnd](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap)](https://skillicons.dev)
 
+- Programming Languages:
 
-- Languages:
+[![language](https://skillicons.dev/icons?i=c,cpp,java,python)](https://skillicons.dev)
 
- &nbsp; &nbsp;<a href="https://python.org" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/py.svg" tItle="Python" width="35"> </a> <a href="https://w3schools.com/cpp" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/cpp.svg" title="C++" width="35"> </a>
+- Front-End Development & tools:
 
-- Extras:
-
-&nbsp; &nbsp;<a href="https://git-scm.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/git.svg"  title="Git" width="35"> </a> <a href="https://code.visualstudio.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/vscode.svg"  title="Visual Studio Code" width="35"> </a>
-<a href="https://mongodb.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/mongodb.svg" title="MongoDB" width="35"> </a> </a> <a href="https://ubuntu.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/ubuntu.svg"  title="Ubuntu (Linux)" width="35"> </a>
+[![BackEnd](https://skillicons.dev/icons?i=nodejs,express,mongodb,git,postman,vscode)](https://skillicons.dev)
 
 <a href="#-skills"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"></a>
 
