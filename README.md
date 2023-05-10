@@ -24,7 +24,7 @@
 
 [![language](https://skillicons.dev/icons?i=c,cpp,java,python)](https://skillicons.dev)
 
-- Front-End Development & tools:
+- Back-End Development & tools:
 
 [![BackEnd](https://skillicons.dev/icons?i=nodejs,express,mongodb,git,postman,vscode)](https://skillicons.dev)
 
