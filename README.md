@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m **Full-Stack Web Developer**
+- 🌱 I’m **MERN Stack Developer**
 
 - 🎓 Currently pursuing Bachelors in Information Science & Engineering at BMS College of Engineering
 
