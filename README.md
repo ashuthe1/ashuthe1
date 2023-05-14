@@ -26,7 +26,7 @@
 
 - Back-End Development & tools:
 
-[![BackEnd](https://skillicons.dev/icons?i=nodejs,express,mongodb,git,postman,vscode)](https://skillicons.dev)
+[![BackEnd](https://skillicons.dev/icons?i=nodejs,express,mongodb,git,postman)](https://skillicons.dev)
 
 <a href="#-skills"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"></a>
 
