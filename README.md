@@ -18,7 +18,7 @@
 
 - Front-End Development:
 
-[![FrontEnd](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap)](https://skillicons.dev)
+[![FrontEnd](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap)](https://skillicons.dev)
 
 - Programming Languages:
 
