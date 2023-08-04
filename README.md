@@ -8,7 +8,7 @@
 
 - 🎓 Currently pursuing Bachelors in Information Science & Engineering at BMS College of Engineering
 
-- 👯 Have an idea? Let’s collaborate! Email me at <a href="mailto:ashutosh251848@gmail.com" target="_blank">ashutosh251848@gmail.com</a>.
+- 👯 Have an idea? Let’s collaborate! Email me at <a href="mailto:ashutoshgautam.work@gmail.com" target="_blank">ashutoshgautam.work@gmail.com</a>.
 
 - More details on my <a href="https://ashutoshgautam.dev" target="_blank"> Portfolio</a>.
 
