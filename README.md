@@ -1,4 +1,4 @@
-Hi!👋🏻 
+<h2> Hey There! 👋🏻 </h2>
 I'm a software engineer 👨🏻‍💻 with a passion for building scalable and efficient solutions that solve real-world problems. I have a knack for breaking down complex problems into smaller, more manageable pieces, and I love working with a variety of technologies and programming languages to create innovative and impactful products.
 
 Here's what I'm looking for in my next role:
@@ -15,17 +15,13 @@ If you're looking for a passionate and skilled software engineer to help you bui
 
 ## <a href="#-skills"><img src="https://oyepriyansh.pages.dev/534756564728422850580.gif" width="40"></a> Skills
 
-- Front-End Development:
-
-[![FrontEnd](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
-
 - Programming Languages:
 
-[![language](https://skillicons.dev/icons?i=c,cpp,java,python)](https://skillicons.dev)
+[![language](https://skillicons.dev/icons?i=c,cpp,javascript,kotlin,java,python,)](https://skillicons.dev)
 
-- Back-End Development & tools:
+- Web Technologies & tools:
 
-[![BackEnd](https://skillicons.dev/icons?i=nodejs,express,mongodb,postman)](https://skillicons.dev)
+[![BackEnd](https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,redis,kafka,firebase,aws)](https://skillicons.dev)
 
 <a href="#-skills"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"></a>
 
