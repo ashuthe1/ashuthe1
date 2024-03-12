@@ -1,18 +1,17 @@
-<a href="#-skills"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"></a>
-<h1>Hello World!, I'm <a href="https://ashutoshgautam.dev" target="_blank">Ashutosh</a></h1>
-<h3>A passionate Full-Stack Developer</h3>
+Hi!👋🏻 
+I'm a software engineer 👨🏻‍💻 with a passion for building scalable and efficient solutions that solve real-world problems. I have a knack for breaking down complex problems into smaller, more manageable pieces, and I love working with a variety of technologies and programming languages to create innovative and impactful products.
 
-## 💫 About Me
+Here's what I'm looking for in my next role:
 
-- 🌱 I’m **MERN Stack Developer**
+- 🚀 Designing and architecting scalable and efficient software systems.
+- 💻 Building and maintaining high-performing backend systems. 
+- 💡 Collaborating with other engineers to deliver high-quality products on time and within budget.
+- ✅ Learning and growing as a software engineer.
 
-- 🎓 Currently pursuing Bachelors in Information Science & Engineering at BMS College of Engineering
+If you're looking for a passionate and skilled software engineer to help you build the future, please reach out to me!
 
-- 👯 Have an idea? Let’s collaborate! Email me at <a href="mailto:ashutoshgautam.work@gmail.com" target="_blank">ashutoshgautam.work@gmail.com</a>.
-
-- More details on my <a href="https://ashutoshgautam.dev" target="_blank"> Portfolio</a>.
-
-<a href="#-skills"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"></a>
+- ✉️ Email: ashutoshgautam.work@gmail.com
+- ✉️ Portfolio Website: https://gautamashutosh.com
 
 ## <a href="#-skills"><img src="https://oyepriyansh.pages.dev/534756564728422850580.gif" width="40"></a> Skills
 
