@@ -16,7 +16,7 @@ If you're looking for a passionate and skilled software engineer to help you bui
 
 - Programming Languages:
 
-[![language](https://skillicons.dev/icons?i=c,cpp,javascript,kotlin,java,python,)](https://skillicons.dev)
+[![language](https://skillicons.dev/icons?i=cpp,javascript,go,java,python,)](https://skillicons.dev)
 
 - Web Technologies & tools:
 
