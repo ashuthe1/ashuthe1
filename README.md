@@ -11,11 +11,11 @@ If you're looking for someone passionate about designing and building impactful 
 
 - Programming Languages:
 
-[![language](https://skillicons.dev/icons?i=cpp,javascript,go,java,python,)](https://skillicons.dev)
+[![language](https://skillicons.dev/icons?i=cpp,javascript,go,)](https://skillicons.dev)
 
 - Web Technologies & tools:
 
-[![BackEnd](https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,redis,kafka,firebase,aws)](https://skillicons.dev)
+[![BackEnd](https://skillicons.dev/icons?i=nodejs,mongodb,redis,kafka,aws)](https://skillicons.dev)
 
 
 ## Connect with me: <p align="center">
