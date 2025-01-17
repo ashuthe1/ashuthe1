@@ -1,14 +1,9 @@
 <h2> Hey There! 👋🏻 </h2>
-I'm a software engineer 👨🏻‍💻 with a passion for building scalable and efficient solutions that solve real-world problems. I have a knack for breaking down complex problems into smaller, more manageable pieces, and I love working with a variety of technologies and programming languages to create innovative and impactful products.
+I'm always curious about what makes great software great and enjoy digging into how things work. I have a knack for building scalable and efficient solutions that solve real-world problems.
 
-Here's what I'm looking for in my next role:
+In my free time, I dive into engineering blogs from tech companies to learn how they design, scale, and optimize their systems to tackle complex challenges. I also enjoy competitive programming and regularly participate in contests.
 
-- 🚀 Designing and architecting scalable and efficient software systems.
-- 💻 Building and maintaining high-performing backend systems. 
-- 💡 Collaborating with other engineers to deliver high-quality products on time and within budget.
-- ✅ Learning and growing as a software engineer.
-
-If you're looking for a passionate and skilled software engineer to help you build the future, please reach out to me!
+If you're looking for someone passionate about designing and building impactful software systems, feel free to connect with me!
 
 - ✉️ Email: ashutoshgautam.work@gmail.com
 
